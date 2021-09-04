@@ -1,0 +1,2 @@
+.App{text-align:center;width:-webkit-max-content;width:max-content;margin:100px auto 0}.buttons{display:flex;flex-direction:column}.button{height:40px;margin-bottom:15px;border-radius:25px;cursor:pointer;transition-duration:.3s}.button:hover{-webkit-transform:translateX(10px);transform:translateX(10px)}.button-show{background-color:#adff2f}.button-hide{background-color:#dc143c}.button-name{height:30px;cursor:pointer;background-color:#fff;transition-duration:.3s}.button-name:hover{color:#fff;background-color:grey}
+/*# sourceMappingURL=main.761040ab.chunk.css.map */
